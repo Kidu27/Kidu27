@@ -101,7 +101,7 @@ const developer = {
 
 ### 📍 **Olla App Development**
 
-**Mobile Developer** • _Jul 2023 - Feb 2024_
+**Fullstack Developer** • _Jul 2023 - Feb 2024_
 
 🌍 Location-based app with **GPS tracking**  
 🎨 Material Design & iOS guidelines implementation  
