@@ -1,4 +1,4 @@
-```markdown
+
 <!-- Animated Header -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kidus%20Yared&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Native%20Developer%20%7C%20Mobile%20%26%20Web%20Specialist%20%7C%20Tech%20Innovator&descSize=19&descAlignY=51" />
@@ -242,4 +242,4 @@ const kidus = {
 **📍 Location**: Addis Ababa, Ethiopia
 
 </div>
-```
+
