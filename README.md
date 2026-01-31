@@ -1,4 +1,4 @@
-```markdown
+````markdown
 <!-- Professional Header -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:4C566A&height=200&section=header&text=Kidus%20Yared&fontSize=50&fontColor=ECEFF4&animation=fadeIn&fontAlignY=35&desc=Senior%20React%20Native%20Developer%20%7C%20Mobile%20Solutions%20Architect&descSize=20&descAlignY=55" />
@@ -50,13 +50,15 @@ const kidusYared: Developer = {
     "Cross-Platform Mobile Development",
     "FinTech Solutions",
     "Enterprise Applications",
-    "Performance Optimization"
+    "Performance Optimization",
   ],
-  currentCompany: "EagleLion System Technology"
+  currentCompany: "EagleLion System Technology",
 };
 ```
+````
 
 ### 🎯 Current Focus
+
 - 🏢 **Position**: React Native Developer at EagleLion System Technology
 - 🚀 **Specializing**: High-performance mobile applications for FinTech
 - 🔧 **Expertise**: Full-stack mobile development with React Native
@@ -70,6 +72,7 @@ const kidusYared: Developer = {
 <div align="center">
 
 ### Mobile Development
+
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
@@ -78,6 +81,7 @@ const kidusYared: Developer = {
 </p>
 
 ### Frontend Technologies
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -86,6 +90,7 @@ const kidusYared: Developer = {
 </p>
 
 ### Backend & Database
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
@@ -94,6 +99,7 @@ const kidusYared: Developer = {
 </p>
 
 ### Development Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
@@ -108,7 +114,8 @@ const kidusYared: Developer = {
 ## 💼 Professional Experience
 
 ### 🏢 **React Native Developer**
-**EagleLion System Technology** • *March 2024 - Present* • Addis Ababa, Ethiopia
+
+**EagleLion System Technology** • _March 2024 - Present_ • Addis Ababa, Ethiopia
 
 - 🚀 Architected and developed cross-platform mobile applications serving **10,000+ users** in FinTech sector
 - 📱 Built responsive UI components with **95% code reuse** across iOS and Android platforms
@@ -117,7 +124,8 @@ const kidusYared: Developer = {
 - 🤝 Collaborated with cross-functional teams using Agile methodologies
 
 ### 📱 **Mobile Application Developer**
-**Olla App Development** • *July 2023 - February 2024* • Addis Ababa, Ethiopia
+
+**Olla App Development** • _July 2023 - February 2024_ • Addis Ababa, Ethiopia
 
 - 🌍 Developed location-based mobile application with **real-time GPS tracking** and mapping features
 - 🎨 Created intuitive user interfaces following Material Design and iOS Human Interface Guidelines
@@ -144,12 +152,12 @@ const kidusYared: Developer = {
 
 <div align="center">
 
-| **Mobile Development** | **Technical Leadership** | **Industry Focus** |
-|:----------------------:|:------------------------:|:------------------:|
-| 📱 React Native Expert | 🏗️ Architecture Design | 💰 FinTech Solutions |
-| 🔄 Cross-Platform Apps | ⚡ Performance Optimization | 🏢 Enterprise Systems |
-| 🎨 UI/UX Implementation | 🔐 Security Best Practices | 📍 Location Services |
-| 📊 State Management | 🤝 Team Collaboration | 🚀 Scalable Solutions |
+| **Mobile Development**  |  **Technical Leadership**   |  **Industry Focus**   |
+| :---------------------: | :-------------------------: | :-------------------: |
+| 📱 React Native Expert  |   🏗️ Architecture Design    | 💰 FinTech Solutions  |
+| 🔄 Cross-Platform Apps  | ⚡ Performance Optimization | 🏢 Enterprise Systems |
+| 🎨 UI/UX Implementation | 🔐 Security Best Practices  | 📍 Location Services  |
+|   📊 State Management   |    🤝 Team Collaboration    | 🚀 Scalable Solutions |
 
 </div>
 
@@ -160,12 +168,14 @@ const kidusYared: Developer = {
 <div align="center">
 
 ### 📱 **Mobile Development Excellence**
+
 - ✅ **10,000+ active users** across deployed applications
-- ✅ **95% code reusability** between iOS and Android platforms  
+- ✅ **95% code reusability** between iOS and Android platforms
 - ✅ **98% crash-free sessions** in production environments
 - ✅ **40% performance improvement** through optimization
 
 ### 🏆 **Professional Impact**
+
 - 🎯 **2+ years** of specialized React Native development
 - 🔐 **Secure FinTech solutions** with payment integrations
 - 🌍 **Location-based applications** with real-time features
@@ -181,14 +191,15 @@ const kidusYared: Developer = {
 
 ### 🔭 **What I'm Working On**
 
-| **Mobile Solutions** | **Technical Growth** |
-|:-------------------:|:-------------------:|
+|        **Mobile Solutions**         |           **Technical Growth**           |
+| :---------------------------------: | :--------------------------------------: |
 | 📱 Cross-platform React Native apps | 🧠 Advanced mobile architecture patterns |
-| 💰 FinTech payment integrations | ⚡ Performance optimization techniques |
-| 🌍 Real-time location services | 🔐 Mobile security best practices |
-| 🎨 Modern UI/UX implementations | 🚀 CI/CD for mobile applications |
+|   💰 FinTech payment integrations   |  ⚡ Performance optimization techniques  |
+|   🌍 Real-time location services    |    🔐 Mobile security best practices     |
+|   🎨 Modern UI/UX implementations   |     🚀 CI/CD for mobile applications     |
 
 ### 🎯 **2024 Goals**
+
 - 🏆 Lead mobile development team
 - 📚 Master advanced React Native patterns
 - 🌟 Contribute to open-source projects
@@ -212,9 +223,10 @@ const kidusYared: Developer = {
 
 <div align="center">
 
-> *"Great mobile applications are born from the perfect blend of technical excellence, user-centric design, and relentless attention to performance."*
+> _"Great mobile applications are born from the perfect blend of technical excellence, user-centric design, and relentless attention to performance."_
 
 ### 🌟 **What Drives Me**
+
 - 🎯 **Quality First**: Writing clean, maintainable, and scalable code
 - 🚀 **Innovation**: Staying ahead with latest mobile development trends
 - 🤝 **Collaboration**: Building great products through teamwork
@@ -229,7 +241,8 @@ const kidusYared: Developer = {
 <div align="center">
 
 ### 💼 **Open to Opportunities**
-*Seeking challenging roles in mobile development, particularly in FinTech and enterprise solutions*
+
+_Seeking challenging roles in mobile development, particularly in FinTech and enterprise solutions_
 
 <table>
 <tr>
@@ -264,7 +277,7 @@ Open to Remote Work
 
 <br>
 
-*Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.* 🚀
+_Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities._ 🚀
 
 </div>
 
@@ -272,4 +285,3 @@ Open to Remote Work
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:4C566A&height=120&section=footer" />
 </div>
-```
