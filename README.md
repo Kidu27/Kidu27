@@ -60,13 +60,13 @@ const developer = {
 <!-- Tech Stack with Icons -->
 <div align="center">
 
-## 💻 Tech Arsenal
+## 💻 Technical Stack
 
 ### Mobile & Frontend
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css" />
 
 ### Backend & Database  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,firebase,mysql" />
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio" />
@@ -112,10 +112,10 @@ const developer = {
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kidu27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Kidu27&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF7B72&currStreakLabel=58A6FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kidu27&show_icons=true&theme=radical&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Kidu27&theme=radical&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidu27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidu27&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
