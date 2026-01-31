@@ -40,16 +40,16 @@ const developer = {
   role: "React Native Developer",
   company: "EagleLion System Technology",
   experience: "2+ years",
-  
+
   skills: {
     mobile: ["React Native", "iOS", "Android"],
     frontend: ["React", "Next.js", "TypeScript"],
     backend: ["Node.js", "Express", "MongoDB"],
-    tools: ["Git", "VS Code", "Figma"]
+    tools: ["Git", "VS Code", "Figma"],
   },
-  
+
   passion: "Creating seamless mobile experiences",
-  currentFocus: "FinTech & Enterprise Solutions"
+  currentFocus: "FinTech & Enterprise Solutions",
 };
 ```
 
@@ -63,12 +63,15 @@ const developer = {
 ## 💻 Technical Stack
 
 ### Mobile & Frontend
+
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css" />
 
-### Backend & Database  
+### Backend & Database
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,firebase,mysql" />
 
 ### Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio" />
 
 </div>
@@ -85,7 +88,8 @@ const developer = {
 <td width="50%">
 
 ### 🏢 **EagleLion System Technology**
-**React Native Developer** • *Mar 2024 - Present*
+
+**React Native Developer** • _Mar 2024 - Present_
 
 🚀 **10,000+ users** served across FinTech applications  
 📱 **95% code reuse** between iOS & Android  
@@ -95,8 +99,9 @@ const developer = {
 </td>
 <td width="50%">
 
-### 📍 **Olla App Development**  
-**Mobile Developer** • *Jul 2023 - Feb 2024*
+### 📍 **Olla App Development**
+
+**Mobile Developer** • _Jul 2023 - Feb 2024_
 
 🌍 Location-based app with **GPS tracking**  
 🎨 Material Design & iOS guidelines implementation  
@@ -107,28 +112,16 @@ const developer = {
 </tr>
 </table>
 
-<!-- GitHub Stats Dashboard -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kidu27&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Kidu27&theme=radical&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidu27&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
 <!-- Skills Matrix -->
 <div align="center">
 
 ## 🎯 Expertise Matrix
 
-| 📱 **Mobile Development** | 🏗️ **Architecture** | 💼 **Industry Focus** |
-|:------------------------:|:-------------------:|:---------------------:|
-| React Native Expert | Scalable Design | FinTech Solutions |
-| Cross-Platform Apps | Performance Optimization | Enterprise Systems |
-| Native Integration | Security Implementation | Location Services |
+| 📱 **Mobile Development** |   🏗️ **Architecture**    | 💼 **Industry Focus** |
+| :-----------------------: | :----------------------: | :-------------------: |
+|    React Native Expert    |     Scalable Design      |   FinTech Solutions   |
+|    Cross-Platform Apps    | Performance Optimization |  Enterprise Systems   |
+|    Native Integration     | Security Implementation  |   Location Services   |
 
 </div>
 
