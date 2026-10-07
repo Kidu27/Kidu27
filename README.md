@@ -15,7 +15,7 @@
   <a href="mailto:kidusyared455@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://kidus-dev.vercel.app/">
+  <a href="https://dev-kidus.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Kidu27&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
@@ -127,6 +127,18 @@ const kidus: Developer = {
 
 ---
 
+## 🏗️ CBE SuperApp — GitLab Contributions
+
+> Real work on a real enterprise banking system. Below is a snapshot of my GitLab contribution activity on the CBE SuperApp project at EagleLion System Technology.
+
+<div align="center">
+  <img width="90%" src="./kidus-portfolio/public/projects/gitlab-activity.png" alt="GitLab Contribution Graph — CBE SuperApp" />
+</div>
+
+> 📌 *Due to NDA, source code is private. Screenshot shows contribution volume and consistency on the CBE SuperApp repository.*
+
+---
+
 ## 🎓 Education & Certifications
 
 - 🎓 **B.Sc. Computer Science** — Unity University, Addis Ababa *(2019 – 2023)*
@@ -147,7 +159,7 @@ const kidus: Developer = {
 <a href="https://www.linkedin.com/in/kidus-yared-a36562355/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://kidus-dev.vercel.app/">
+<a href="https://dev-kidus.vercel.app/">
   <img src="https://img.shields.io/badge/View%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
