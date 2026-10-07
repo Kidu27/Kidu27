@@ -132,7 +132,7 @@ const kidus: Developer = {
 > Real work on a real enterprise banking system. Below is a snapshot of my GitLab contribution activity on the CBE SuperApp project at EagleLion System Technology.
 
 <div align="center">
-  <img width="90%" src="./kidus-portfolio/public/projects/gitlab-activity.png" alt="GitLab Contribution Graph — CBE SuperApp" />
+  <img width="90%" src="https://raw.githubusercontent.com/Kidu27/kidus-portfolio/main/public/projects/gitlab-activity.png" alt="GitLab Contribution Graph — CBE SuperApp" />
 </div>
 
 > 📌 *Due to NDA, source code is private. Screenshot shows contribution volume and consistency on the CBE SuperApp repository.*
