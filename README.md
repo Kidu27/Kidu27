@@ -1,157 +1,160 @@
-<!-- Dynamic Header with Gradient -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kidus%20Yared&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=React%20Native%20Developer%20%7C%20Mobile%20Innovation%20Specialist&descSize=18&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kidus%20Yared&fontSize=56&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Software%20Engineer%20%E2%80%94%20React%20Native%20%7C%20FinTech%20%7C%20Full-Stack&descSize=16&descAlignY=58&descColor=aaaacc" />
 </div>
 
-<!-- Animated Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+Mobile+Experiences+%F0%9F%93%B1;FinTech+%26+Enterprise+Solutions;Cross-Platform+Innovation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Building+enterprise+mobile+apps+%F0%9F%93%B1;3%2B+years+in+FinTech+%26+Banking+systems;React+Native+%7C+Node.js+%7C+TypeScript;Shipped+products+for+millions+of+users" alt="Typing SVG" />
 </div>
 
-<br>
+<br/>
 
-<!-- Contact & Stats Row -->
 <div align="center">
   <a href="https://www.linkedin.com/in/kidus-yared-a36562355/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kidusyared455@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+251943261730">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  <a href="https://kidus-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Kidu27&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kidu27&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 </div>
 
-<br>
+---
 
-<!-- About Section with Code Block -->
-<div align="center">
+## `$ whoami`
 
-## 🚀 About Me
+```typescript
+const kidus: Developer = {
+  name:       "Kidus Yared",
+  title:      "Mobile Software Engineer (React Native & Full-Stack)",
+  location:   "Addis Ababa, Ethiopia 🇪🇹  ·  Remote-Ready 🌍",
+  experience: "3+ years",
+  current:    "EagleLion System Technology",
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  focus: [
+    "Enterprise FinTech mobile applications",
+    "Cross-platform React Native development",
+    "Secure payment gateway integration",
+    "Full-stack Node.js / PostgreSQL systems",
+  ],
 
-```javascript
-const developer = {
-  name: "Kidus Yared",
-  location: "Addis Ababa, Ethiopia 🇪🇹",
-  role: "React Native Developer",
-  company: "EagleLion System Technology",
-  experience: "2+ years",
+  highlights: [
+    "Mobile engineer on CBE SuperApp — Ethiopia's largest bank",
+    "Built Dashen Edl gamified feature for Dashen Bank",
+    "Developed EtSwitch Agency Banking Portal",
+  ],
 
-  skills: {
-    mobile: ["React Native", "iOS", "Android"],
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "Express", "MongoDB"],
-    tools: ["Git", "VS Code", "Figma"],
-  },
-
-  passion: "Creating seamless mobile experiences",
-  currentFocus: "FinTech & Enterprise Solutions",
+  openTo: ["Freelance", "Contract", "Full-time Remote"],
 };
 ```
 
-</div>
+---
 
-<br clear="both">
+## 💼 Professional Experience
 
-<!-- Tech Stack with Icons -->
-<div align="center">
-
-## 💻 Technical Stack
-
-### Mobile & Frontend
-
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,firebase,mysql" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio" />
-
-</div>
-
-<!-- Experience Timeline -->
-<div align="center">
-
-## 💼 Professional Journey
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 **EagleLion System Technology**
+### EagleLion System Technology
+**Mobile App Developer** · *Mar 2025 – Present*
 
-**React Native Developer** • _Mar 2024 - Present_
-
-🚀 **10,000+ users** served across FinTech applications  
-📱 **95% code reuse** between iOS & Android  
-⚡ **40% performance boost** through optimization  
-🔐 Secure payment integrations & real-time processing
+- 📱 Spearheading mobile engineering for **CBE SuperApp** — enterprise banking app for Ethiopia's largest bank
+- 🏦 Architected wallet management, loan services, budgeting & virtual card modules from scratch
+- 🔗 Integrated payment gateways, IPS, and in-app e-commerce ecosystem
+- 💬 Built real-time in-app chat & advanced notification systems
+- 🔐 Enforced banking-grade security: encrypted data flows, session management
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📍 **Olla App Development**
+### Olla App Development
+**Full Stack Developer** · *Jul 2023 – Feb 2024*
 
-**Fullstack Developer** • _Jul 2023 - Feb 2024_
-
-🌍 Location-based app with **GPS tracking**  
-🎨 Material Design & iOS guidelines implementation  
-🔄 RESTful API integration & offline architecture  
-📊 **98% crash-free** production sessions
+- 🗺️ Built production-grade location-based restaurant discovery app with React Native
+- 📡 Engineered geolocation logic, distance filtering & real-time data sync
+- 🔄 Bridged mobile frontend with server-side logic end-to-end
+- ✅ Enforced coding standards through agile code reviews & performance optimization
 
 </td>
 </tr>
 </table>
 
-<!-- Skills Matrix -->
+---
+
+## 🚀 Key Projects
+
+| Project | Role | Stack | Description |
+|---|---|---|---|
+| **CBE SuperApp** | Mobile Engineer | React Native, Node.js, TypeScript | Enterprise banking super-app for Ethiopia's largest bank |
+| **Dashen Edl Feature** | Mobile Developer | React Native, REST API | Gamified prize-winning feature inside Dashen Bank's super-app |
+| **EtSwitch Agency Portal** | Frontend Developer | React, Node.js, PostgreSQL | National agency banking operations web portal |
+| **Olla App** | Full Stack Developer | React Native, Node.js | Location-based lifestyle & restaurant discovery app |
+
+---
+
+## 🛠️ Technical Stack
+
+### Mobile & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,tailwind,html,css" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgresql,mongodb,mysql,firebase" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,prisma,vscode,xcode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kidu27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidu27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=6366f1&text_color=c9d1d9&langs_count=6" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kidu27&bg_color=0d0d14&color=6366f1&line=a855f7&point=06b6d4&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **B.Sc. Computer Science** — Unity University, Addis Ababa *(2019 – 2023)*
+- 📜 **Advanced NodeJS: Level Up Your NodeJS Skill** — 2024
+- 📜 **Full Stack Website Development** — 2023
+
+---
+
+## 📫 Let's Connect
+
 <div align="center">
 
-## 🎯 Expertise Matrix
+**Open to remote freelance, contract, and full-time opportunities.**
 
-| 📱 **Mobile Development** |   🏗️ **Architecture**    | 💼 **Industry Focus** |
-| :-----------------------: | :----------------------: | :-------------------: |
-|    React Native Expert    |     Scalable Design      |   FinTech Solutions   |
-|    Cross-Platform Apps    | Performance Optimization |  Enterprise Systems   |
-|    Native Integration     | Security Implementation  |   Location Services   |
+<a href="mailto:kidusyared455@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kidus-yared-a36562355/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://kidus-dev.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
-<!-- Activity Graph -->
+<br/>
+
 <div align="center">
-
-## 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kidu27&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF7B72&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<!-- Current Focus -->
-<div align="center">
-
-## 🎯 Current Focus
-
-**🔥 Building next-generation mobile solutions**
-
-<img src="https://img.shields.io/badge/React_Native-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/FinTech-Specialist-FFD700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Performance-Optimizer-FF6B6B?style=for-the-badge" />
-
-**📍 Addis Ababa, Ethiopia** • **🌐 Open to Remote Work**
-
-[![Repositories](https://img.shields.io/badge/🔍_Explore_My_Work-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kidu27?tab=repositories)
-
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
